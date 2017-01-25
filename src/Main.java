@@ -1,5 +1,5 @@
 /*A Very Simple Example */
-class ExampleProgram {
+class Main {
     public static void main(String[] args) {
 	System.out.println("I'm a Simple Program");
     }
